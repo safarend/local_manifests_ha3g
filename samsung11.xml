@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="safarend/android_device_samsung_ha3g" path="device/samsung/ha3g" remote="github" revision="cm-12.1" />
+  <project name="djmax81/android_kernel_samsung_exynos5420" path="kernel/samsung/ha3g" remote="github" revision="5ad198edb838990c4dcba8533596f7a0aec6d1e3" />
+  <project name="safarend/android_vendor_samsung_ha3g" path="vendor/samsung/ha3g" remote="github" revision="cm-12.0" />
+  <remove-project name="CyanogenMod/android_packages_apps_InCallUI" />
+  <project name="safarend/android_packages_apps_InCallUI" path="packages/apps/InCallUI" remote="github" revision="cm-12.1" />
+
+  
+  <project name="CyanogenMod/android_device_samsung_tuna" path="device/samsung/tuna" remote="github" revision="cm-12.1" />
+  <project name="CyanogenMod/android_hardware_samsung_slsi_exynos5-insignal" path="hardware/samsung_slsi/exynos5-insignal" remote="github" revision="cm-12.1" />  
+  <project name="CyanogenMod/android_hardware_samsung_slsi_openmax" path="hardware/samsung_slsi/openmax" remote="github" revision="cm-12.1" />
+  <project name="CyanogenMod/android_hardware_samsung_slsi_exynos5420" path="hardware/samsung_slsi/exynos5420" remote="github" revision="cm-12.1" />
+  <project name="CyanogenMod/android_hardware_samsung_slsi_exynos" path="hardware/samsung_slsi/exynos" remote="github" revision="cm-12.1" />
+  <project name="CyanogenMod/android_hardware_samsung" path="hardware/samsung" remote="github" revision="cm-12.1" />
+  <project name="CyanogenMod/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMod" remote="github" revision="cm-12.1" />
+</manifest> 
