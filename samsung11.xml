@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <project name="safarend/android_device_samsung_ha3g" path="device/samsung/ha3g" remote="github" revision="cm-12.1" />
-  <project name="djmax81/android_kernel_samsung_exynos5420" path="kernel/samsung/ha3g" remote="github" revision="5ad198edb838990c4dcba8533596f7a0aec6d1e3" />
+  <project name="djmax81/android_kernel_samsung_exynos5420" path="kernel/samsung/ha3g" remote="github" revision="36a668a0870f0fd0ef80c64076df693a60d873cb" />
   <project name="safarend/android_vendor_samsung_ha3g" path="vendor/samsung/ha3g" remote="github" revision="cm-12.0" />
   <remove-project name="CyanogenMod/android_packages_apps_InCallUI" />
   <project name="safarend/android_packages_apps_InCallUI" path="packages/apps/InCallUI" remote="github" revision="cm-12.1" />
